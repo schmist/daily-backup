@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # keeping last n backups
-keep=3
+keep=5
 
 # generate date and time as name
 name="$(date '+%Y%m%d_%H%M').tar.gz"
